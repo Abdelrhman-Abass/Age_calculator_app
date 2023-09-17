@@ -39,7 +39,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Abdelrhman-Abass)
+- Frontend Mentor - [@Abdelrhman-Abass](https://www.frontendmentor.io/profile/Abdelrhman-Abass)
 
 
 
